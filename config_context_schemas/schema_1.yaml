@@ -3,8 +3,8 @@ _metadata:
   name: "Config Context Schema 1"
   description: "Schema for config contexts"
   config_contexts:
-  - slug: "config_context_1.yaml"
-  - slug: "config_context_2.yaml"
+  - name: "config_context_1.yaml"
+  - name: "config_context_2.yaml"
 
 $id: "https://example.com/person.schema.json"
 $schema: "https://json-schema.org/draft/2020-12/schema"
