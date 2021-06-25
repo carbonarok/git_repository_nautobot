@@ -2,9 +2,6 @@
 _metadata:
   name: "Config Context Schema 1"
   description: "Schema for config contexts"
-  config_contexts:
-  - name: "data-models"
-  - name: "spine"
 
 data_schema:
   $id: "https://example.com/person.schema.json"

@@ -4,6 +4,7 @@ _metadata:
   weight: 1000
   description: Global Definitions.
   is_active: true
+  schema: "Config Context Schema 1"
 aaa-new-model: false
 cdp: true
 lldp: true
